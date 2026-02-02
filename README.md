@@ -16,4 +16,4 @@ Como se detalla en la documentación, este proyecto aprovisiona mediante código
 * **Escalabilidad:** Variable `server_count` para definir la infraestructura elástica.
 
 ## Documentación
-Puedes ver el reporte completo de la arquitectura y pruebas de despliegue [aquí](./Documentation_Report.pdf).
+Puedes ver el reporte completo de la arquitectura y pruebas de despliegue [aquí](./Documentation.pdf).
